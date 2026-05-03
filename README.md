@@ -79,13 +79,13 @@ project/
 1. Clonar el repositorio:
 
 ```bash id="f3k2lz"
-git clone https://github.com/TU-USUARIO/sistema-pedidos-venta.git
+git clone https://github.com/isairey/SistemaComercialPedidos.git
 ```
 
 2. Acceder al proyecto:
 
 ```bash id="g8p4mx"
-cd sistema-pedidos-venta
+cd SistemaComercialPedidos
 ```
 
 3. Instalar dependencias:
@@ -142,4 +142,4 @@ Desarrollador enfocado en sistemas empresariales, backend y soluciones escalable
 
 ## 📜 Licencia
 
-Este proyecto es de uso libre para fines educativos y comerciales.
+Licensia MIT.
